@@ -55,3 +55,27 @@ npm run build
 ```
 
 Backend setup details live in `backend/README.md`.
+# Aayurvani
+
+A cross-platform clinical Ayurvedic app built with Flutter (iOS, Android, Web) 
+and a Node.js + TypeScript backend with a deterministic Ayurvedic rule engine.
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Mobile & Web | Flutter (Dart) |
+| Backend API | Node.js + Express + TypeScript |
+| Database | MySQL |
+| Email Service | Node Mailer |
+| Architecture | MVC + DAO |
+
+## Features
+
+- Deterministic Ayurvedic rule engine (backend)
+- Cross-platform: iOS, Android, Web
+- REST API with Express + TypeScript
+- Email verification flow (in progress)
+- MySQL schema with migrations
+
+## Project Structure
