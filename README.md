@@ -1,5 +1,5 @@
 # Aayurvani
-
+![Flutter CI](https://github.com/marellatrivikrama-ui/app/actions/workflows/flutter.yml/badge.svg)
 Aayurvani is a Flutter clinical Ayurvedic prototype with a deterministic Node.js/MySQL backend.
 
 ## Essential Folders
