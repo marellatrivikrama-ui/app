@@ -80,10 +80,14 @@ and a Node.js + TypeScript backend with a deterministic Ayurvedic rule engine.
 
 ## Screenshots
 
-| Analysis Panel | Modules |
+| Home | Modules |
 |---|---|
-| ![Analysis Panel](assets/screenshots/analysis-panel.png) | ![Modules](assets/screenshots/modules.png) |
+| ![Home](assets/screenshots/homepage1.png) | ![Modules](assets/screenshots/homepage2.png) |
 
 | Inquiry Vector | Clinical Synthesis |
 |---|---|
-| ![Inquiry](assets/screenshots/inquiry.png) | ![Result](assets/screenshots/result.png) |
+| ![Inquiry](assets/screenshots/analysis1q.png) | ![Result](assets/screenshots/result.png) |
+
+| Sign In | New Account |
+|---|---|
+| ![SignIn](assets/screenshots/Singinorloginpage.png) | ![NewAccount](assets/screenshots/newacount.png) |.
