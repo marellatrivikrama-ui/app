@@ -78,4 +78,12 @@ and a Node.js + TypeScript backend with a deterministic Ayurvedic rule engine.
 - Email verification flow (in progress)
 - MySQL schema with migrations
 
-## Project Structure
+## Screenshots
+
+| Analysis Panel | Modules |
+|---|---|
+| ![Analysis Panel](assets/screenshots/analysis-panel.png) | ![Modules](assets/screenshots/modules.png) |
+
+| Inquiry Vector | Clinical Synthesis |
+|---|---|
+| ![Inquiry](assets/screenshots/inquiry.png) | ![Result](assets/screenshots/result.png) |
